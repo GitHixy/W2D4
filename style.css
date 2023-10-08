@@ -189,9 +189,10 @@ h4 {
   font-size: 15px;
 }
 .follow-container button {
+  font-size: 20px;
   background-color: white;
-  border-radius: 20px;
-  padding: 8px;
+  border-radius: 15px;
+  padding: 5px;
 }
 .follow-container button:hover {
   background-color: #1aa2f8;
